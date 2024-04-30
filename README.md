@@ -44,4 +44,4 @@ Dataset: detailed Calendar Data, detailed Review Data for Prague
 Jupyter_bonus
 
 1. Sentiment analysis - relation between the sentiment and price, Were people who paid more also more satisfied?
-2. Seasons - What high seasons did you identify? How do the seasons differ for different locations
+2. Seasons - What high seasons did you identify? 
