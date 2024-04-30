@@ -14,7 +14,7 @@ Python 3 - programming language used, done in Visual Studio code and Jupyter Not
 ## Prerequisites
 Install the required packages in your terminal or set up your virtual enviroment.
 
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 
 ## Preprocessing
 Dataset: detailed Listings data for Prague
